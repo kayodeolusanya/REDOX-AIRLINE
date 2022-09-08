@@ -1,5 +1,5 @@
 # REDOX-AIRLINE
-I am a consultant working with a small startup airline,
+This project involves working with a small startup airline,
 operating out of the Chicago, Illinois area in the United
 States.
 
@@ -13,3 +13,7 @@ and compare the information.
 You have been requested by the CEO to analyze the data and
 present key insights to drive the business growth and
 position in the industry.
+
+Power BI was used in transformation of data and dashboard design
+
+<img src="Redox%20Airline%20Screenshot.jpg" width="900">
